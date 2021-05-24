@@ -1,0 +1,11 @@
+post / signup
+    /sign in
+
+get /all
+get / one /:id
+
+put /update-info/:id
+delet/remove/:id
+/////
+ORM = object relationeel mapping
+ODM = object document mapping 
